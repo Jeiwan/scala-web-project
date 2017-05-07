@@ -10,3 +10,4 @@ node_modules
 .ensime_cache
 .ensime
 *.log
+public/compiled/*
